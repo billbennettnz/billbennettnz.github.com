@@ -376,7 +376,7 @@ Small Device Styles
 
 @media screen and (max-width: 480px) {
   body {
-    font-size:14px;
+    font-size:18px;
   }
 
   #downloads {
@@ -389,15 +389,15 @@ Small Device Styles
   }
 
   #project_title {
-  font-size: 32px;
+  font-size: 40px;
   }
 
   h1 {
-    font-size: 28px;
+    font-size: 36px;
   }
 
   h2 {
-    font-size: 24px;
+    font-size: 28px;
   }
 
   h3 {
